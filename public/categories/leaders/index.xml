@@ -2,47 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leaders on Living Light Ministries Inc</title>
-    <link>https://livinglightministriesph.org/categories/leaders/index.xml</link>
+    <link>localhost:1313/categories/leaders/</link>
     <description>Recent content in Leaders on Living Light Ministries Inc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2017&lt;br/&gt; Living Light Ministries Inc.</copyright>
-    <atom:link href="https://livinglightministriesph.org/categories/leaders/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2016 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="localhost:1313/categories/leaders/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rev. Benjamin A. Neri Ph.D</title>
-      <link>https://livinglightministriesph.org/leadership/ben-neri/</link>
+      <link>localhost:1313/leadership/ben-neri/</link>
       <pubDate>Sat, 24 Sep 2016 13:50:46 +0200</pubDate>
       
-      <guid>https://livinglightministriesph.org/leadership/ben-neri/</guid>
-      <description>&lt;p&gt;Rev. Benjamin A. Neri is married for 33 years now and a father of one, and has been in the ministry since 1971, the host of God’s Miracle Hour Radio and TV.&lt;/p&gt;
-
-&lt;p&gt;Broadcast aired over RPN TV – Channel 9 and Radio GMA DYSS. Saved at age 16, Pastor Ben (as bretheren call him) answered the call to the ministry and went through four years of bible training to equip himself for the task he is called to do.&lt;/p&gt;
-
-&lt;p&gt;It was in the early years of his ministry that he heard from the Lord that he is called beyond the boarders of his church. And few years, later he began to travel to the nations in revival and evangelistic crusade in accordance to the mandate that he received while preaching in his church one day, that he is going to walk the nations for Jesus.&lt;/p&gt;
-
-&lt;p&gt;While in the US in 1986, the Lord spoke to him to return to Cebu City, the hub of communication and transportation in the Philippines ; to take the Air-waves for Jesus.&lt;/p&gt;
-
-&lt;p&gt;He believes that each believer is the carrier of the life of God which is the answer to every need and circumstance; and living in God’s presence which brings us to that place of empowerment.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/leadership/ben-neri/</guid>
+      <description>Rev. Benjamin A. Neri is married for 33 years now and a father of one, and has been in the ministry since 1971, the host of God’s Miracle Hour Radio and TV.
+Broadcast aired over RPN TV – Channel 9 and Radio GMA DYSS. Saved at age 16, Pastor Ben (as bretheren call him) answered the call to the ministry and went through four years of bible training to equip himself for the task he is called to do.</description>
     </item>
     
     <item>
       <title>Ptra. Zenaida Y. Neri Ph.D</title>
-      <link>https://livinglightministriesph.org/leadership/zeny-neri/</link>
+      <link>localhost:1313/leadership/zeny-neri/</link>
       <pubDate>Sat, 17 Sep 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://livinglightministriesph.org/leadership/zeny-neri/</guid>
-      <description>&lt;p&gt;Ptra. Zenaida Y. Neri or Ate Zeny as the brethren call her, is the partner of Ptr. Ben not only as a wife and mother of their daughter Jessah Mae, but also in the work of the Lord.&lt;/p&gt;
-
-&lt;p&gt;Being with her husband through pioneering two churches in other parts of the Philippines, she has faithfully labored in the vision God has laid on his shoulder in taking the Gospel to people’s homes through Radio and TV since 1985 in Dumaguete City during the times of “God’s Miracle Hour” Ministry’s days of small beginnings.&lt;/p&gt;
-
-&lt;p&gt;Being his only partner, she operated the TV camera while Ptr. Ben was interviewing or preaching on the set as well as his lone prayer partner since God’s Miracle Hour was first aired in Cebu City in the mandate of the Lord to “take the airwaves for Jesus”.&lt;/p&gt;
-
-&lt;p&gt;Having witnessed the formation of this ministry and co-pastored with her husband towards its success, she has discovered that prayer and the presence of God in worship is the key to revival and success in the ministry.&lt;/p&gt;
-
-&lt;p&gt;She has expanded her work to leadership as director over Daystar Children’s Mission, the ministry’s outreach to the street children of downtown Cebu.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/leadership/zeny-neri/</guid>
+      <description>Ptra. Zenaida Y. Neri or Ate Zeny as the brethren call her, is the partner of Ptr. Ben not only as a wife and mother of their daughter Jessah Mae, but also in the work of the Lord.
+Being with her husband through pioneering two churches in other parts of the Philippines, she has faithfully labored in the vision God has laid on his shoulder in taking the Gospel to people’s homes through Radio and TV since 1985 in Dumaguete City during the times of “God’s Miracle Hour” Ministry’s days of small beginnings.</description>
     </item>
     
   </channel>

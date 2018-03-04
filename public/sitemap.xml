@@ -1,77 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://livinglightministriesph.org/leadership/ben-neri/</loc>
+    <loc>localhost:1313/leadership/ben-neri/</loc>
     <lastmod>2016-09-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/leadership/zeny-neri/</loc>
+    <loc>localhost:1313/leadership/zeny-neri/</loc>
     <lastmod>2016-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/categories/</loc>
+    <loc>localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/contact/</loc>
+    <loc>localhost:1313/contact/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/daystar/</loc>
+    <loc>localhost:1313/daystar/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/donate/</loc>
+    <loc>localhost:1313/donate/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/events/</loc>
+    <loc>localhost:1313/events/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/gmh/</loc>
+    <loc>localhost:1313/gmh/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/history/</loc>
+    <loc>localhost:1313/history/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/categories/leaders/</loc>
+    <loc>localhost:1313/categories/leaders/</loc>
     <lastmod>2016-09-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/leadership/</loc>
+    <loc>localhost:1313/leadership/</loc>
     <lastmod>2016-09-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/</loc>
+    <loc>localhost:1313/</loc>
     <lastmod>2016-09-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/media/</loc>
+    <loc>localhost:1313/media/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/ministries/</loc>
+    <loc>localhost:1313/ministries/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/privacy/</loc>
+    <loc>localhost:1313/privacy/</loc>
   </url>
   
   <url>
-    <loc>https://livinglightministriesph.org/faq/</loc>
+    <loc>localhost:1313/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

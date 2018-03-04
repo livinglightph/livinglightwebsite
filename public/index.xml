@@ -2,343 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Living Light Ministries Inc</title>
-    <link>https://livinglightministriesph.org/index.xml</link>
+    <link>localhost:1313/</link>
     <description>Recent content on Living Light Ministries Inc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2017&lt;br/&gt; Living Light Ministries Inc.</copyright>
     <lastBuildDate>Sat, 24 Sep 2016 13:50:46 +0200</lastBuildDate>
-    <atom:link href="https://livinglightministriesph.org/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rev. Benjamin A. Neri Ph.D</title>
-      <link>https://livinglightministriesph.org/leadership/ben-neri/</link>
+      <link>localhost:1313/leadership/ben-neri/</link>
       <pubDate>Sat, 24 Sep 2016 13:50:46 +0200</pubDate>
       
-      <guid>https://livinglightministriesph.org/leadership/ben-neri/</guid>
-      <description>&lt;p&gt;Rev. Benjamin A. Neri is married for 33 years now and a father of one, and has been in the ministry since 1971, the host of God’s Miracle Hour Radio and TV.&lt;/p&gt;
-
-&lt;p&gt;Broadcast aired over RPN TV – Channel 9 and Radio GMA DYSS. Saved at age 16, Pastor Ben (as bretheren call him) answered the call to the ministry and went through four years of bible training to equip himself for the task he is called to do.&lt;/p&gt;
-
-&lt;p&gt;It was in the early years of his ministry that he heard from the Lord that he is called beyond the boarders of his church. And few years, later he began to travel to the nations in revival and evangelistic crusade in accordance to the mandate that he received while preaching in his church one day, that he is going to walk the nations for Jesus.&lt;/p&gt;
-
-&lt;p&gt;While in the US in 1986, the Lord spoke to him to return to Cebu City, the hub of communication and transportation in the Philippines ; to take the Air-waves for Jesus.&lt;/p&gt;
-
-&lt;p&gt;He believes that each believer is the carrier of the life of God which is the answer to every need and circumstance; and living in God’s presence which brings us to that place of empowerment.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/leadership/ben-neri/</guid>
+      <description>Rev. Benjamin A. Neri is married for 33 years now and a father of one, and has been in the ministry since 1971, the host of God’s Miracle Hour Radio and TV.
+Broadcast aired over RPN TV – Channel 9 and Radio GMA DYSS. Saved at age 16, Pastor Ben (as bretheren call him) answered the call to the ministry and went through four years of bible training to equip himself for the task he is called to do.</description>
     </item>
     
     <item>
       <title>Ptra. Zenaida Y. Neri Ph.D</title>
-      <link>https://livinglightministriesph.org/leadership/zeny-neri/</link>
+      <link>localhost:1313/leadership/zeny-neri/</link>
       <pubDate>Sat, 17 Sep 2016 13:47:08 +0200</pubDate>
       
-      <guid>https://livinglightministriesph.org/leadership/zeny-neri/</guid>
-      <description>&lt;p&gt;Ptra. Zenaida Y. Neri or Ate Zeny as the brethren call her, is the partner of Ptr. Ben not only as a wife and mother of their daughter Jessah Mae, but also in the work of the Lord.&lt;/p&gt;
-
-&lt;p&gt;Being with her husband through pioneering two churches in other parts of the Philippines, she has faithfully labored in the vision God has laid on his shoulder in taking the Gospel to people’s homes through Radio and TV since 1985 in Dumaguete City during the times of “God’s Miracle Hour” Ministry’s days of small beginnings.&lt;/p&gt;
-
-&lt;p&gt;Being his only partner, she operated the TV camera while Ptr. Ben was interviewing or preaching on the set as well as his lone prayer partner since God’s Miracle Hour was first aired in Cebu City in the mandate of the Lord to “take the airwaves for Jesus”.&lt;/p&gt;
-
-&lt;p&gt;Having witnessed the formation of this ministry and co-pastored with her husband towards its success, she has discovered that prayer and the presence of God in worship is the key to revival and success in the ministry.&lt;/p&gt;
-
-&lt;p&gt;She has expanded her work to leadership as director over Daystar Children’s Mission, the ministry’s outreach to the street children of downtown Cebu.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/leadership/zeny-neri/</guid>
+      <description>Ptra. Zenaida Y. Neri or Ate Zeny as the brethren call her, is the partner of Ptr. Ben not only as a wife and mother of their daughter Jessah Mae, but also in the work of the Lord.
+Being with her husband through pioneering two churches in other parts of the Philippines, she has faithfully labored in the vision God has laid on his shoulder in taking the Gospel to people’s homes through Radio and TV since 1985 in Dumaguete City during the times of “God’s Miracle Hour” Ministry’s days of small beginnings.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://livinglightministriesph.org/contact/</link>
+      <link>localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/contact/</guid>
-      <description>
-
-&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
-
-&lt;p&gt;Are you curious about something? Do want to know more about Jesus?&lt;/p&gt;
-
-&lt;p&gt;Please feel free to contact us, we will get back to you as soon as possible.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do want to know more about Jesus?
+Please feel free to contact us, we will get back to you as soon as possible.</description>
     </item>
     
     <item>
       <title>Daystar Children’s Mission</title>
-      <link>https://livinglightministriesph.org/daystar/</link>
+      <link>localhost:1313/daystar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/daystar/</guid>
+      <guid>localhost:1313/daystar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donate</title>
-      <link>https://livinglightministriesph.org/donate/</link>
+      <link>localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/donate/</guid>
+      <guid>localhost:1313/donate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>https://livinglightministriesph.org/events/</link>
+      <link>localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/events/</guid>
+      <guid>localhost:1313/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>God&#39;s Miracle Hour</title>
-      <link>https://livinglightministriesph.org/gmh/</link>
+      <link>localhost:1313/gmh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/gmh/</guid>
+      <guid>localhost:1313/gmh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://livinglightministriesph.org/history/</link>
+      <link>localhost:1313/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/history/</guid>
-      <description>&lt;p&gt;On August of 1987 Ptr. Ben Neri left the United States in response to the Lord’s call to go back to the Philippines to take the Airwaves for Jesus from the City of Cebu. The cradle of Roman Catholicism, since 1521, Civilization, Education and the hub of transportation and communication 2nd to Manila.&lt;/p&gt;
-
-&lt;p&gt;By faith, He signed contracts with radio and TV stations only looking to God as His source.&lt;/p&gt;
-
-&lt;p&gt;In the last week of November 1987, God’s Miracle Hour went on the Air On TV Channel 9 Cebu and Radio DYKC.&lt;/p&gt;
-</description>
+      <guid>localhost:1313/history/</guid>
+      <description>On August of 1987 Ptr. Ben Neri left the United States in response to the Lord’s call to go back to the Philippines to take the Airwaves for Jesus from the City of Cebu. The cradle of Roman Catholicism, since 1521, Civilization, Education and the hub of transportation and communication 2nd to Manila.
+By faith, He signed contracts with radio and TV stations only looking to God as His source.</description>
     </item>
     
     <item>
       <title>Media/Gallery Section</title>
-      <link>https://livinglightministriesph.org/media/</link>
+      <link>localhost:1313/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/media/</guid>
+      <guid>localhost:1313/media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ministries</title>
-      <link>https://livinglightministriesph.org/ministries/</link>
+      <link>localhost:1313/ministries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/ministries/</guid>
+      <guid>localhost:1313/ministries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://livinglightministriesph.org/privacy/</link>
+      <link>localhost:1313/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/privacy/</guid>
-      <description>
-
-&lt;p&gt;By visiting this website, you agree to the terms of this privacy policy. We may be updating this policy from time to time. We encourage users to frequently check back on this page. This was last updated on: Sunday, February 5th, 2017.
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;Any data that the Living Light Ministries Inc. Official Website (&lt;a href=&#34;https://livinglightministriesph.org&#34;&gt;https://livinglightministriesph.org&lt;/a&gt;) collected from its visitors shall be used primarily to give the organization&amp;rsquo;s media team and site administrators an idea of how the people use the Site, and how the site performs.&lt;/p&gt;
-
-&lt;p&gt;Should you be required to provide more personal information such as your name and email address for, e.g., for our contact forms, that information will only be used for that purpose. Information collected from users will not be used in any way for marketing or commercial purposes.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-information-we-collect&#34;&gt;THE INFORMATION WE COLLECT&lt;/h3&gt;
-
-&lt;p&gt;We collect personal identification information from users in a variety of ways, including, but not limited to, when users visit our site and contact us through the contact form or by phone, subscribe to our official social media accounts, or post comments in our blog.&lt;/p&gt;
-
-&lt;p&gt;We also collect non-personal identification information about users whenever they interact with the site for analytics purposes. Non-personal identification information may include the type of browser used to access the site, the type of computer or device, and other technical information used as the means of connection, such as operating system and referrers (i.e. google search). This type of information cannot be used to identify individual visitors.&lt;/p&gt;
-
-&lt;h3 id=&#34;website-cookies&#34;&gt;WEBSITE COOKIES&lt;/h3&gt;
-
-&lt;p&gt;This site may use cookies, to enhance user experience. To know more about cookies, please &lt;a href=&#34;http://cookies.insites.com/&#34; target=&#34;_blank&#34;&gt;click this link&lt;/a&gt;. As user you may opt to set your web browser to refuse cookies, or to send alerts if cookies are being sent. If you want to disable your cookies, there is also an instruction on how to disable cookies in the link provided above.&lt;/p&gt;
-
-&lt;h3 id=&#34;how-we-use-your-information&#34;&gt;HOW WE USE YOUR INFORMATION&lt;/h3&gt;
-
-&lt;p&gt;The information we collect shall be used primarily for the following purposes:&lt;/p&gt;
-
-&lt;p&gt;To improve the website: Information such as pages most frequently visited, and technology used to access the website, may help the media team and site administrators determine which aspect of site development or content creation to prioritize. Feedback from users gathered through emails may also be used for such purposes.&lt;/p&gt;
-
-&lt;p&gt;To respond emails: We may use the email address provided by a user to respond to questions, and/or other requests. When addressing inquiries or questions sent to us through contact form or email, our media team may store the user&amp;rsquo;s message along with user&amp;rsquo;s data for documentation purposes. Should you wish to exempt your information from this practice, please let us know by including it in the message body.&lt;/p&gt;
-
-&lt;h3 id=&#34;links-to-other-websites&#34;&gt;LINKS TO OTHER WEBSITES&lt;/h3&gt;
-
-&lt;p&gt;This site contains links (embedded links, iframes, etc.) to and from websites of other organizations. This privacy policy, however, only applies to Living Light Ministries Inc. Official Website (&lt;a href=&#34;https://livinglightministriesph.org&#34;&gt;https://livinglightministriesph.org&lt;/a&gt;), other sites managed by the Living Light Ministries Media Team and the account which houses the contact forms.&lt;/p&gt;
-
-&lt;p&gt;All the information on this website is published in good faith and for general information purpose only. Living Light Ministries Inc (&lt;a href=&#34;https://livinglightministriesph.org&#34;&gt;https://livinglightministriesph.org&lt;/a&gt;) does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (&lt;a href=&#34;https://livinglightministriesph.org&#34;&gt;https://livinglightministriesph.org&lt;/a&gt;), is strictly at your own risk. Living Light Ministries Inc (&lt;a href=&#34;https://livinglightministriesph.org&#34;&gt;https://livinglightministriesph.org&lt;/a&gt;) will not be liable for any losses and/or damages in connection with the use of our website.&lt;/p&gt;
-
-&lt;p&gt;From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to reliable and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone &amp;lsquo;bad&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Websites other than those listed above (including external sites linked in this website) may have different privacy policies and terms which are beyond our control. We encourage you to likewise take the time check their Privacy Policies of these sites as well as their &amp;ldquo;Terms of Service&amp;rdquo;. Also, to learn more with regards on this subject, we recommend that you familiarize yourself with your respective country&amp;rsquo;s privacy laws.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In case you have any question, please feel free to &lt;a href=&#34;https://livinglightministriesph.org/contact/&#34;&gt; contact us &lt;/a&gt; we will be happy to help you.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>localhost:1313/privacy/</guid>
+      <description>By visiting this website, you agree to the terms of this privacy policy. We may be updating this policy from time to time. We encourage users to frequently check back on this page. This was last updated on: Sunday, February 5th, 2017. 
+Any data that the Living Light Ministries Inc. Official Website (https://livinglightministriesph.org) collected from its visitors shall be used primarily to give the organization&amp;rsquo;s media team and site administrators an idea of how the people use the Site, and how the site performs.</description>
     </item>
     
     <item>
       <title>Statement of Faith</title>
-      <link>https://livinglightministriesph.org/faq/</link>
+      <link>localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://livinglightministriesph.org/faq/</guid>
-      <description>
-
-&lt;h2 id=&#34;1-the-bible-is-inspired&#34;&gt;1. The Bible is Inspired&lt;/h2&gt;
-
-&lt;p&gt;The Scriptures of the entire Bible are verbally inspired of God. It was not just the ideas that were inspired; even the choice of words was inspired as the original writers were moved by God to write what He wanted them to say. We, therefore, believe that&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the Scriptures are God&amp;rsquo;s revelation of Himself to mankind,&lt;/li&gt;
-&lt;li&gt;they are infallible (never wrong),&lt;/li&gt;
-&lt;li&gt;and they are the divinely authoritative guide for our faith, belief, and manner of living.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2-one-true-god&#34;&gt;2. One True God&lt;/h2&gt;
-
-&lt;p&gt;There is one true God. He has revealed Himself as having always existed without any outside cause or agent bringing Him into being. He is the Creator of heaven and earth and the One who redeems, saves, or rescues mankind from sin and its painful consequences. God has further revealed Himself as a single Being consisting of three interrelated persons: Father, Son, and Holy Spirit.
-This concept of one God or Being of three persons is called the Trinity.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-the-lord-jesus-christ-is-fully-god&#34;&gt;3. The Lord Jesus Christ is Fully God&lt;/h2&gt;
-
-&lt;p&gt;The Lord Jesus Christ, the Son of God, has always existed. He, too, is without beginning or end.
-In order to complete His earthly sacrificial mission, He became human by being born of a virgin, conceived by the Holy Spirit. He lived a perfect life, absolutely without sin. While on earth, He worked many miracles through the anointing of the Holy Spirit. In order to restore fallen mankind, He died on the cross as a substitute for the sins of every person. He was raised from the dead by the supernatural power of God. Since His resurrection, He has been exalted (honored), and is seated at the right hand of God.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-the-fall-of-mankind&#34;&gt;4. The Fall of Mankind&lt;/h2&gt;
-
-&lt;p&gt;Mankind was created good and upright; for God said, “Let us make man in our image, after our likeness.” However, mankind, by willful choice, ignored God&amp;rsquo;s instructions, choosing to engage in what he knew was wrong and evil. As a result, mankind fell from innocence and goodness and thereby incurred not only physical death but also spiritual death, which is separation from God.&lt;/p&gt;
-
-&lt;h2 id=&#34;5-the-salvation-of-mankind&#34;&gt;5. The Salvation of Mankind&lt;/h2&gt;
-
-&lt;p&gt;Salvation is deliverance from spiritual death and from enslavement by sin. God provides salvation for all who believe and accept His free offer of forgiveness. Mankind&amp;rsquo;s only hope of redemption from the fallen, sinful state is through the blood of Jesus Christ, God&amp;rsquo;s Son – blood that was shed as Jesus died on the cross.
-The account of the crucifixion of Jesus is recounted by four of His contemporaries:&lt;/p&gt;
-
-&lt;h4 id=&#34;the-experience-of-salvation-salvation-is-received-as-a-person&#34;&gt;The Experience of Salvation: Salvation is received as a person&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;repents before God for his sins and sinful nature or inclinations,&lt;/li&gt;
-&lt;li&gt;and believes, or has faith, in the fact that the death and resurrection (supernatural restoration to life) of Jesus Christ removes and brings forgiveness for his sin. In response to placing faith in God&amp;rsquo;s love and freely-given salvation, one experiences the washing of regeneration (or spiritual rebirth), the renewing work of the Holy Spirit, and is declared righteous (right with God). Regeneration, renewal, and justification (justified, or made right with God) are words describing what happens at salvation. At the moment of salvation, a person becomes heir to God&amp;rsquo;s promised hope of eternal or everlasting life.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;the-evidences-of-salvation-the-inner-evidence-of-salvation-is-the-direct-witness-of-the-holy-spirit-giving-one-the-assurance-that-god-has-accepted-him&#34;&gt;The Evidences of Salvation: The inner evidence of salvation is the direct witness of the Holy Spirit giving one the assurance that God has accepted him.&lt;/h4&gt;
-
-&lt;h4 id=&#34;the-outward-evidence-visible-to-others-is-a-life-of-righteousness-and-true-holiness-in-other-words-it-is-living-a-life-totally-committed-and-pleasing-to-god&#34;&gt;The outward evidence, visible to others, is a life of righteousness and true holiness. In other words, it is living a life totally committed and pleasing to God.&lt;/h4&gt;
-
-&lt;h2 id=&#34;6-the-ordinances-of-the-church&#34;&gt;6. The Ordinances of the Church&lt;/h2&gt;
-
-&lt;p&gt;Some churches use the term sacraments instead of ordinances. The word “sacraments,” however, carries for many people the idea that a spiritual work takes place in a person when the sacrament is received or experienced. The Living Light Christian Fellowship chooses to call baptism in water and holy communion ordinances because they are religious practices ordained and established by Jesus himself.&lt;/p&gt;
-
-&lt;h4 id=&#34;in-fulfilling-these-spiritual-duties-christians-are-reminded-of-an-important-work-that-has-already-taken-place-in-the-heart-of-the-believer&#34;&gt;In fulfilling these spiritual duties, Christians are reminded of an important work that has already taken place in the heart of the believer.&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Baptism in Water : The ordinance of baptism by immersion in water is commanded in the Scriptures.
-All who repent and believe in Jesus Christ as personal Savior and Lord are to be so baptized. This act of baptism symbolically declares to everyone that the old sinful life and lifestyle of the baptized believer died with Christ at salvation and a new spiritual being has been raised with Christ (in His resurrection) to live a new life.&lt;/li&gt;
-&lt;li&gt;Holy Communion : The Lord&amp;rsquo;s Supper, or Communion, consisting of bread and the fruit of the vine, is a memorial of Christ&amp;rsquo;s suffering and death.
-In eating and drinking the symbols of Christ&amp;rsquo;s suffering and death, the believer expresses his awareness that, through salvation, he (1) has been made right with God, and (2) shares the divine nature of eternal life through our Lord Jesus Christ.
-The ordinance also looks forward to Christ&amp;rsquo;s second coming for it is a reminder to proclaim the Lord&amp;rsquo;s death “until He comes!”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;7-the-baptism-in-the-holy-spirit&#34;&gt;7. The Baptism in the Holy Spirit&lt;/h2&gt;
-
-&lt;p&gt;All believers are entitled to receive the baptism in the Holy Spirit, and therefore should expect and earnestly seek the promise of the Father, according to the command of our Lord Jesus Christ. Some references in the Bible speak of “the Holy Ghost and fire.”&lt;/p&gt;
-
-&lt;h4 id=&#34;fire-an-image-commonly-associated-with-the-holy-spirit-suggests-the-purging-cleansing-action-and-zeal-of-the-holy-spirit-which-continues-the-work-of-spiritual-growth-begun-at-salvation&#34;&gt;Fire, an image commonly associated with the Holy Spirit, suggests the purging, cleansing action and zeal of the Holy Spirit which continues the work of spiritual growth begun at salvation.&lt;/h4&gt;
-
-&lt;p&gt;The baptism in the Holy Spirit was the normal experience of all believers in the early Christian church. With the experience comes the enhancement of power for victorious Christian living and productive service. It also provides believers with specific spiritual gifts for more effective ministry.&lt;/p&gt;
-
-&lt;p&gt;The baptism in the Holy Spirit is separate from salvation, and follows the new-birth experience.
-With this baptism comes such experiences as an overflowing fullness of the Spirit, a deepened reverence for God, an intensified commitment to God and dedication to His work, and a more active love for Christ, for His Word, and for those who have not yet become believers.&lt;/p&gt;
-
-&lt;h2 id=&#34;8-the-initial-physical-evidence-of-the-baptism-in-the-holy-spirit&#34;&gt;8. The Initial Physical Evidence of the Baptism in the Holy Spirit&lt;/h2&gt;
-
-&lt;p&gt;The baptism of Christians in the Holy Spirit is accompanied by the initial physical sign of speaking in other tongues (unlearned languages) as the Spirit of God gives them audible expression.&lt;/p&gt;
-
-&lt;p&gt;This form of speaking in tongues is basically the same as the gift of tongues. The difference is the purpose and use. The manifestation of tongues can be observed in the life of every Spirit-filled believer at the initial infilling. The audible expression of tongues should also continue to function in the Spirit-filled believer&amp;rsquo;s prayer life.&lt;/p&gt;
-
-&lt;p&gt;However, the gift of tongues operates publicly, usually in congregational worship settings. This gift is followed by the gift of interpreting the tongues. Both are given to individuals within the church. Their purpose is for the spiritual benefit of the individual and the congregation.&lt;/p&gt;
-
-&lt;h4 id=&#34;the-word-ghost-in-the-16th-century-king-james-version-of-the-bible-meant-only-what-we-today-understand-by-the-word-spirit&#34;&gt;The word Ghost, in the 16th-century King James Version of the Bible, meant only what we today understand by the word Spirit.&lt;/h4&gt;
-
-&lt;h4 id=&#34;sometimes-called-messages-in-tongues&#34;&gt;Sometimes called “messages in tongues”.&lt;/h4&gt;
-
-&lt;h2 id=&#34;9-sanctification&#34;&gt;9. Sanctification&lt;/h2&gt;
-
-&lt;p&gt;Sanctification is an act of separating ourselves from evil and identifying with things that are good, upright, and morally pure. It is a process that takes place as Christians devote themselves to God.
-Scriptures teach that we are to be holy because God is holy.
-For, “[w]ithout holiness no one will see the Lord.” Living in holiness is possible by the power of the Holy Spirit.
-A Christian is sanctified as he identifies with Christ, and accepts in faith His sacrificial death and victorious resurrection. Sanctification is a daily acknowledgment of our union with God through His Son, Jesus. As this identification occurs it is only natural for the Christian to offer every portion of his life to the control of the Holy Spirit.&lt;/p&gt;
-
-&lt;h2 id=&#34;10-the-church-and-its-mission&#34;&gt;10. The Church and Its Mission&lt;/h2&gt;
-
-&lt;p&gt;The Church, as described in the Bible, consists of all people who have placed their faith in Jesus Christ as the only remedy for their sins. The Church includes all Christians and has no boundaries as to age, race, gender, or denomination. It is the body of Christ, the dwelling place of God through the Holy Spirit. Christ is the head of the Church.
-He has made every provision for the fulfillment of “the Church&amp;rsquo;s” Great Commission.
-Each Christian is an integral part of the Church. The names of all true believers (those making up the Church) are written in heaven.&lt;/p&gt;
-
-&lt;h4 id=&#34;god-s-purpose-concerning-mankind-is&#34;&gt;God&amp;rsquo;s purpose concerning mankind is:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;to seek and to save people who are lost in sin,&lt;/li&gt;
-&lt;li&gt;to be worshiped by all mankind, and&lt;/li&gt;
-&lt;li&gt;to build a unified body of believers, mature in faith and knowledge, like His Son, Jesus.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;therefore-the-priority-reason-for-being-of-the-living-light-christian-fellowship-as-a-part-of-the-church-is&#34;&gt;Therefore, the priority reason-for-being of the Living Light Christian Fellowship as a part of the Church is:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To be an agency of God for evangelizing the world.&lt;/li&gt;
-&lt;li&gt;To be a corporate or unified body in which man may worship God.&lt;/li&gt;
-&lt;li&gt;To be a channel of God&amp;rsquo;s purpose to build a body of saints being perfected in the image of His Son.
-In fulfilling this three-fold mission of the Church, members of the Living Light Christian Fellowship are taught and encouraged to be baptized in the Holy Spirit according to the New Testament pattern.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;through-this-experience-believers&#34;&gt;Through this experience, believers:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;evangelize in the power of the Spirit with accompanying supernatural signs;&lt;/li&gt;
-&lt;li&gt;worship God in an added dimension;&lt;/li&gt;
-&lt;li&gt;respond to the full working of the Holy Spirit in expressing the fruit, gifts, and ministries as in New Testament times in order to build up the Church, the body of Christ.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;11-the-ministry&#34;&gt;11. The Ministry&lt;/h2&gt;
-
-&lt;p&gt;Involvement in ministry in response to a divine call is scripturally ordained in the Bible. It is a provision of our Lord for the threefold purpose of leading the Church in:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;evangelization of the world&lt;/li&gt;
-&lt;li&gt;worship of God, and&lt;/li&gt;
-&lt;li&gt;building a body of believers conforming to the life of Christ.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;12-divine-healing&#34;&gt;12. Divine Healing&lt;/h2&gt;
-
-&lt;p&gt;Divine healing from God is an integral part of the Gospel. Deliverance from sickness is provided in the Atonement (Christ&amp;rsquo;s suffering and death for our reconciliation with God). Healing is a privilege of all believers.&lt;/p&gt;
-
-&lt;h2 id=&#34;13-the-blessed-hope&#34;&gt;13. The Blessed Hope&lt;/h2&gt;
-
-&lt;p&gt;All Christians who have died will one day rise from their graves and will meet the Lord in the air. Christians who have not yet died will be raptured, or caught up, with them, to be with the Lord. Then, Christians of all ages will live with God forever. The scriptural truth of the Lord&amp;rsquo;s soon return is “the blessed hope.”&lt;/p&gt;
-
-&lt;h2 id=&#34;14-the-millennial-reign-of-christ&#34;&gt;14. The Millennial Reign of Christ&lt;/h2&gt;
-
-&lt;p&gt;The second coming of Christ includes the rapture of all Christians, which is our blessed hope, followed by the visible return of Christ with His saints to reign on the earth for 1,000 years.
-This millennial (1,000-year) reign will bring the salvation of Israel as a nation and the establishment of universal peace.&lt;/p&gt;
-
-&lt;h2 id=&#34;15-the-final-judgment&#34;&gt;15. The Final Judgment&lt;/h2&gt;
-
-&lt;p&gt;There will be a final judgment in which the wicked dead – those who have died without accepting Christ&amp;rsquo;s salvation – will be raised and judged according to the way they lived. Anyone whose name is not found written in the Book of Life (the recorded list of people who received Christ&amp;rsquo;s forgiveness), together with the devil and his angels, the beast and the false prophet, will be sent to everlasting punishment in the lake that burns with fire and brimstone (sulfur), which is the second death.&lt;/p&gt;
-
-&lt;h2 id=&#34;16-the-new-heavens-and-the-new-earth&#34;&gt;16. The New Heavens and the New Earth&lt;/h2&gt;
-
-&lt;h4 id=&#34;according-to-god-s-promise-we-look-for-new-heavens-and-a-new-earth-where-righteousness-will-dwell-and-reign-forever&#34;&gt;According to God&amp;rsquo;s promise, we look for new heavens and a new earth, where righteousness will dwell and reign forever.&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In case you have any question, please feel free to &lt;a href=&#34;https://livinglightministriesph.org/contact/&#34;&gt; contact us &lt;/a&gt; we will be happy to help you.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>localhost:1313/faq/</guid>
+      <description>1. The Bible is Inspired The Scriptures of the entire Bible are verbally inspired of God. It was not just the ideas that were inspired; even the choice of words was inspired as the original writers were moved by God to write what He wanted them to say. We, therefore, believe that
+ the Scriptures are God&amp;rsquo;s revelation of Himself to mankind, they are infallible (never wrong), and they are the divinely authoritative guide for our faith, belief, and manner of living.</description>
     </item>
     
   </channel>

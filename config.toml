@@ -1,5 +1,5 @@
-baseurl = "localhost:1313"
-#baseurl = "https://livinglightministriesph.org/"
+#baseurl = "localhost:1313"
+baseurl = "https://livinglightministriesph.org/"
 title = "Living Light Ministries Inc"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
