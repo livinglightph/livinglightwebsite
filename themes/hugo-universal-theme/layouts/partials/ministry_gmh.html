@@ -1,0 +1,72 @@
+<div class="container" id="ministry_gmh">
+
+    <div class="row">
+        <div class="col-md-9" id="blog-post">
+                     <section class="post">
+                            <div class="row">
+                                
+                                <div>
+                                
+                        <div id="post-content">
+                        <div class="subhead">{{ .Params.subhead1 }}</div>
+                        <br/>
+                        <img src="{{ .Params.subimg1 }}" class="gmhtvb" alt="{{ .Params.subhead1 }}" height="302" width="401">
+                        <p class="subbody">
+                         {{ .Params.submsg1 }}
+                         <!-- {{ .Content }}-->
+                        </p>
+                        </div>
+                        <!-- /#post-content -->
+                        
+
+                    </div>
+                    </div>
+                    </section>
+
+                    <section class="post">
+                            <div class="row">
+                                
+                                <div>
+                                
+                        <div id="post-content">
+                        <div class="subhead">{{ .Params.subhead2 }}</div>
+                        <br/>
+                        <img src="{{ .Params.subimg2 }}" class="gmhtvb" alt="{{ .Params.subhead2 }}" height="302" width="401">
+                        <p class="subbody">
+                         {{ .Params.submsg2 }}
+                         <!-- {{ .Content }}-->
+                        </p>
+                        </div>
+                        <!-- /#post-content -->
+                        
+
+                    </div>
+                    </div>
+                    </section>
+
+                    </div>
+                      
+                    <!-- /.col-md-9 -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN ***
+       _________________________________________________________ -->
+    <div class="col-md-3">
+        
+    {{ partial "ministry_nav.html" . }}
+    
+    {{ partial "other_areas_nav.html" . }}
+
+    </div> 
+    </div>
+    <!-- /.row -->
+
+    
+
+
+
+</div>
+
+
+

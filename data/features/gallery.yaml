@@ -1,0 +1,5 @@
+weight: 7
+name: "Gallery"
+icon: "fa fa-picture-o"
+description: "Media documentation of our events and ministries."
+link: "/media/"

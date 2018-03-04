@@ -1,0 +1,72 @@
+<div class="container" id="ministry">
+
+    <div class="row">
+     <div class="col-md-9" id="blog-listing-medium">
+                            {{ range sort .Site.Data.ministries "weight" }}
+                            <section class="post">
+                            <div class="row">
+                            
+                            <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="{{ .Permalink }}">
+                                          {{ if .image }}
+                                          <!--<img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt=""> uncooment if u r using site own url -->
+                                          <img src="{{ .image }}" class="img-responsive center-block" width="200" height="200" alt="">
+                                          {{ else }}
+                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                          {{ end }}
+                                      </a>
+                                  </div>
+                            </div>
+                            <div class="col-md-8">
+                            <h2><a href="../{{ .url }}">{{ .title }}</a></h2>
+                            <p class="intro">{{ .intro | safeHTML }}</p>
+                            <!--{{ .description | safeHTML }}-->
+
+                             </div>
+
+                            </div>
+
+                            
+                            </section>
+                          {{ end }}   
+                    
+
+                    </div>
+                    <!-- /.col-md-9 -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN ***
+       _________________________________________________________ -->
+    <div class="col-md-3">
+        
+    <div class="panel-heading">
+        <h3 class="panel-title">Jump To:</h3>
+    </div>
+
+        <div class="panel-body">
+            <ul class="nav nav-pills nav-stacked">
+                {{ if eq .Params.ytenabled "yes" }}
+                <li>
+                    <a href="{{ .Site.BaseURL }}">Home</a>
+                </li> 
+                {{ end }}
+                
+            </ul>
+        </div>
+    {{ partial "other_areas_nav.html" . }}
+    </div>          
+
+
+    </div>
+    <!-- /.row -->
+
+    
+
+
+
+</div>
+
+
+

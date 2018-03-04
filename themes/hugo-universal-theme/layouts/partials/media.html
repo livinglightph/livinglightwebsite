@@ -1,0 +1,107 @@
+<div class="container" id="media">
+
+    <div class="row">
+        <div class="col-md-9" id="blog-listing-medium">
+                        {{ if eq .Params.ytenabled "yes" }}
+                        <section class="post">
+                            <div class="row">
+                                
+                                <div>
+                                
+                                <a name="yt" href="{{ .Params.ytlink }}" target="_blank">
+                                    <h2>VISIT OUR YOUTUBE PAGE HERE</h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          <img class="ben-img" src="{{ .Site.BaseURL }}img/youtube-logo.jpg" alt="youtube-logo" width="200" height="100">
+                                          (OPENS LINK NEW TAB)
+                                        </p>
+                                
+                                </div>
+                                </a>
+                            </div>
+                        </section>
+                        {{ end }}
+                        {{ if eq .Params.vimenabled "yes" }}
+                        <section class="post">
+                            <div class="row">
+                                
+                                <div>
+                                
+                                <a name="vim" href="{{ .Params.vimeolink }}" target="_blank">
+                                    <h2>VISIT OUR VIDEOS IN VIMEO HERE</h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          <img class="ben-img" src="{{ .Site.BaseURL }}img/vimeo-logo.png" alt="vimeo-logo" width="200" height="100">
+                                          (OPENS LINK NEW TAB)
+                                        </p>
+                               
+                                </div>
+                                </a>
+                            </div>
+                        </section>
+                        {{ end }}
+                        {{ if eq .Params.gdenabled "yes" }}
+                        <section class="post">
+                            <div class="row">
+                                    <h2><a name="gd" href="https://drive.google.com/open?id={{ .Params.gdid }}" target="_blank">PHOTOS STORED IN GOOGLE DRIVE</a></h2>
+                                           <iframe src="https://drive.google.com/embeddedfolderview?id={{ .Params.gdid }}#list" width="700" height="500" frameborder="0"></iframe>
+    
+                            </div>
+                        </section>
+                        {{ end }}
+
+                       
+            
+        </div>
+
+        <!--<div class="col-md-9">!-->
+    <div class="col-md-3">
+        
+    <div class="panel-heading">
+        <h3 class="panel-title">Jump To:</h3>
+    </div>
+
+        <div class="panel-body">
+            <ul class="nav nav-pills nav-stacked">
+                {{ if eq .Params.ytenabled "yes" }}
+                <li>
+                    <a href="#yt">VIEW OUR LATEST VIDEOS UPLOADED IN YOUTUBE</a>
+                </li> 
+                {{ end }}
+                {{ if eq .Params.vimenabled "yes" }}
+                <li>
+                    <a href="#vim">VIEW OUR LATEST VIDEOS UPLOADED IN VIMEO</a>
+                </li> 
+                {{ end }}
+                {{ if eq .Params.gdenabled "yes" }}
+                <li>
+                    <a href="#gd">VIEW PHOTOS STORED IN GOOGLE DRIVE</a>
+                </li> 
+                {{ end }}
+                {{ if eq .Params.phenabled "yes" }}
+                <li>
+                    <a href="#">VIEW PHOTOS STORED IN GOOGLE PHOTOS</a>
+                </li> 
+                {{ end }}
+                <li>
+                    <a href="{{ .Site.BaseURL }}">Back to Home</a>
+                </li> 
+
+            </ul>
+        </div>
+
+        {{ partial "other_areas_nav.html" . }}
+    </div>          
+
+
+    </div>
+    <!-- /.row -->
+
+    
+
+
+
+</div>
+
+
+

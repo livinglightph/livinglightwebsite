@@ -1,0 +1,5 @@
+weight: 3
+name: "Donate"
+icon: "fa fa-money"
+description: "Want to help our mission in spreading the Good News? You can donate by clicking here"
+link: "/donate/"

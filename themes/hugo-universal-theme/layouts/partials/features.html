@@ -1,0 +1,35 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ if gt (len .Site.Data.features) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                {{ range sort .Site.Data.features "weight" }}
+                <div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            {{ if eq .newtab "true" }}
+                            <i class="{{ .icon }}" href="{{ .link }}" target="_blank"></i>
+                            {{ else }}
+                            <i class="{{ .icon }}" href="{{ .link }}"></i>
+                            {{ end }}
+                        </div>
+                        <h3>
+                        {{ if eq .newtab "true" }}
+                            <a href="{{ .link }}" target="_blank">{{ .name }}</a></h3>
+                            {{ else }}
+                            <a href="{{ .link }}">{{ .name }}</a></h3>
+                            {{ end }}
+                        
+                        <p>{{ .description }}</p>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,5 @@
+weight: 8
+name: "Upcoming Events"
+icon: "fa fa-calendar"
+description: "Our upcoming events in the church"
+link: "/events/"

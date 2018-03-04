@@ -1,0 +1,5 @@
+weight: 6
+name: "Ministry"
+icon: "fa fa-users"
+description: "Our Ministries."
+link: "/ministries/"

@@ -1,0 +1,57 @@
+<div class="container" id="history">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section>
+
+                
+
+                <div class="heading">
+                    <h3>{{ .Params.intro }}</h3>
+                </div>
+
+                <div id="contact-message"></div>
+
+                <h2>{{ .Params.points | safeHTML }}</h2>
+                
+
+
+            </section>
+            
+        </div>
+
+        <div class="col-md-4">          
+            <section>
+            <img class="ben-img" src={{ .Params.imgrs }} alt={{.Params.altrs}} width="281" height="300">
+            </section>
+            <section>
+            <b>{{.Params.altrs}}</b> 
+            </section>
+
+
+        </div>
+
+    </div>
+    <!-- /.row -->
+    <div class="col-md-12">
+    <div class="once">
+     {{ .Content }}
+
+     </div>
+    <div class="rv">{{ .Params.phenom }}</div>
+     </div>
+    <div class="once">
+     {{ .Params.closing }}
+    </div>
+    <br/>
+     <div class="exid">
+     {{ .Params.last }}
+    </div>
+
+
+
+</div>
+
+
+

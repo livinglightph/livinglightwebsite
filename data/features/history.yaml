@@ -1,0 +1,5 @@
+weight: 4
+name: "Brief History"
+icon: "fa fa-history"
+description: "Brief background on how this church was founded."
+link: "/history/"

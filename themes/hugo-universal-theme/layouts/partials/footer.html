@@ -1,0 +1,77 @@
+<footer id="footer">
+    <div class="container">
+
+        {{ if isset .Site.Params "about_us" }}
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            {{ .Site.Params.about_us | safeHTML }}
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+        {{ if isset .Site.Params "schedule" }}
+        <div class="col-md-4 col-sm-6">
+            <h4>Our Service Schedule</h4>
+
+            {{ .Site.Params.schedule | safeHTML }}
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+        <!-- /.col-md-4 -->
+
+        {{ if isset .Site.Params "address" }}
+        <div class="col-md-4 col-sm-6">
+
+            <h4>Contact</h4>
+
+            {{ .Site.Params.address | safeHTML }}
+
+            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            <!-- {{ if .Site.Params.cdn.enable }}
+             <p class="pull-left">{{ .Site.Params.cdn.cdnurl | safeHTML }}</p>
+            {{ end }} -->
+            {{ if isset .Site.Params "copyright" }}
+            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }} </p>
+            <!--<iframe width="100%" height="150" src="https://oras.pagasa.dost.gov.ph/widget.shtml" frameborder="0"></iframe>-->
+            {{ end }}
+            <p class="pull-right">
+              Template by <a href="http://bootstrapious.com/free-templates" target="_blank">Bootstrapious</a>.<br/>
+              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme" target="_blank">DevCows</a><br/>
+              Modified by <a href="https://llmmt.livinglightministriesph.org" target="_blank">Living Light Ministries Media Team</a>
+            </p>
+        </div>
+    </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->

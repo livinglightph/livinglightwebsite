@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-9" id="blog-post">
+                    
+                        <img src="{{ .Params.banner }}" class="img-responsive center-block" width="200" height="200" alt="">
+                        <!--<p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>-->
+
+                        <div id="post-content">
+                        {{ if .Params.position }}
+                        <h3>Position : {{ .Params.position }}</h3>
+                        {{ end }}
+                          {{ .Content }}
+                        
+                        {{ if .Params.fb }}
+                        <br/>
+                        <h4>Find {{ .Params.shortname }} on:</h4>
+                        <a href="{{ .Params.fb }}" target="_blank"><img src="{{ .Site.BaseURL }}img/socialmedia/facebook.png" width="64" height="64" alt=""></a>
+                        {{ end }}
+
+                        </div>
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
